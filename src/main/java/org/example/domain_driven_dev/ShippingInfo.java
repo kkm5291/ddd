@@ -1,4 +1,4 @@
-package chapter1;
+package org.example.domain_driven_dev;
 
 public class ShippingInfo {
     private String receiverName; // 받는 사람 이름

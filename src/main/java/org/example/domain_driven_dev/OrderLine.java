@@ -1,4 +1,4 @@
-package chapter1;
+package org.example.domain_driven_dev;
 
 // 주문 항목 표현
 public class OrderLine {

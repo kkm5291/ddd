@@ -1,4 +1,4 @@
-package chapter1;
+package org.example.domain_driven_dev;
 
 public class Money {
     private int value;

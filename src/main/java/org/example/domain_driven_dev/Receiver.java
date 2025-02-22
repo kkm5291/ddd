@@ -1,4 +1,4 @@
-package chapter1;
+package org.example.domain_driven_dev;
 
 import java.util.Objects;
 
